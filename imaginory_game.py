@@ -40,6 +40,7 @@ def display():
           "The gameplay involves rolling dice to determine the moves \n"
           "and if a player is on a safe spot, they are secure,\nbut if not, they get killed "
           "and restart from the beginning")
+    print('sf stands for SAFE and wn stands for WINNER')
 
     print(f'| {zero}    | {nine}   | {ten}   | {nineteen}   | {twenty}')
     print(f'| {one}    | {eight}   | {eleven}   | {eightteen}   | {twentyone}')
